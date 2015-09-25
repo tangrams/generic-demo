@@ -1,6 +1,6 @@
 # generic-demo
 
-A generic [Tangram](http://github.com/tangrams/tangram) setup for [Mapzen](http://github.com/mapzen) maps. library.
+A generic [Tangram](http://github.com/tangrams/tangram) setup for [Mapzen](http://github.com/mapzen) maps.
 
 Live demo: http://tangrams.github.io/generic-demo
 
