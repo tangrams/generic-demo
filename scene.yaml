@@ -68,11 +68,15 @@ layers:
                 text:
                     font:
                         fill: white
-                        typeface: 500 12px Helvetica
+                        weight: 500
+                        size: 12px
+                        family: Helvetica
         not_highway:
             filter: { not: { kind: highway }, $zoom: { min: 13 } }
             draw:
                 text:
                     font:
                         fill: white
-                        typeface: 100 11px Helvetica
+                        weight: 100
+                        size: 11px
+                        family: Helvetica
